@@ -1,0 +1,79 @@
+.fordform {
+    display: block;
+    width: 300px;
+    border: 1px solid #cccccc;
+    border-radius: 10px;
+    height: 26px;
+    margin: 8px;
+    font-size: 13px;
+    padding: 5px;
+}
+
+select.fordform {
+    width: 310px;
+    height: 36px;
+    color: #807d7d;
+}
+
+input:focus-visible {
+    outline: none;
+}
+
+select:focus-visible {
+    outline: none;
+}
+
+main div {
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.forms {
+    display: block;
+    text-align: center;
+}
+
+h2 {
+    text-align: left;
+    font-weight: 800;
+}
+
+.forms-box{
+    display: block;
+    margin-top: -30px;
+}
+
+.fordform-dados{
+    display: block;
+    width: 300px;
+    height: 26px;
+    margin: 8px;
+    font-size: 13px;
+    padding: 5px;
+    margin-bottom: 3em;
+}
+
+.fordform-box{
+    display: block;
+    width: 300px;
+    border-radius: 10px;
+    height: 26px;
+    margin: 8px;
+    font-size: 13px;
+    padding: 5px;
+}
+
+
+button {
+    width: 200px;
+    height: 40px;
+    margin-right: 8px;
+    float: right;
+}
+
+.titulo {
+    margin-left: 8px;
+}
